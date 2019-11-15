@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TimCoreyWeeklyChallenge.BulkFileRenamingChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "challenge ../../../Examples/PrimaryChallengeFiles"
+    }
+  }
+}
